@@ -1,0 +1,19 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+header .navbar {
+  background-color: #fff !important;
+}
+
+header .navbar ul li {
+  font-size: large;
+  text-decoration: none;
+}
+header .navbar ul li a:hover {
+  color: #eb0a1e !important;
+  border-bottom: 2px solid #eb0a1e;
+}
+
+h1 {
+  font-family: "Lato", Light 300;
+}
